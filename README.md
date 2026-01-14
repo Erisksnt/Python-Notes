@@ -66,4 +66,4 @@ O repositório está organizado por **áreas de conhecimento**, facilitando a na
 ## 👤 Autor
 Erick Santos  
 Graduate in Information Security | Python & Cybersecurity  
-LinkedIn | GitHub
+[LinkedIn](https://www.linkedin.com/in/erisk-santos/) | [GitHub](https://github.com/Erisksnt)
