@@ -1,24 +1,69 @@
-# Erick Santos
-## About me
-Graduate in Cybersecurity 🎓 | Passionate about Networks and Information Security 💻 | Seeking innovative solutions to protect data and systems 🛡️|
+# 🐍 Python Learning & Notes
 
-I'm Erick, a graduate in Information Security and passionate about Computer Networks and Cybersecurity. 🧠💻
+Este repositório reúne **anotações, exemplos práticos e projetos em Python**, organizados de forma progressiva — do nível fundamental ao avançado — com foco em **aprendizado estruturado**, **boas práticas** e **aplicações reais** da linguagem.
 
-I've worked as a Level 2 Support Analyst, gaining hands-on experience in managing and securing networks in dynamic environments. I'm familiar with tools like Zabbix, Nagios, Grafana, and The Dude, and have worked with routers, switches, firewalls, and RF equipment.
+O conteúdo foi construído a partir de estudos contínuos, desafios práticos e projetos desenvolvidos ao longo da evolução técnica, servindo tanto como material de consulta quanto como portfólio.
 
-My focus is on keeping systems connected, secure, and running smoothly — making sure data stays safe, available, and reliable. I'm always looking to learn more and apply my knowledge to solve real-world problems in tech. 🚀🔐
+---
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/erisk-santos/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erisksnt)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.com/channels/@Sagat#1005/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/_erisksnt/)
+## 📚 Estrutura do Repositório
 
-## Habilidades
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+O repositório está organizado por **áreas de conhecimento**, facilitando a navegação e o aprofundamento progressivo:
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erisksnt&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+- **fundamentals/**  
+  Conceitos essenciais da linguagem Python, como tipos de dados, operadores, estruturas de controle, coleções, strings e manipulação de data e hora.
+
+- **oop/**  
+  Programação Orientada a Objetos em Python, abordando classes, objetos, encapsulamento, herança, polimorfismo, abstração e boas práticas de design.
+
+- **advanced/**  
+  Recursos avançados da linguagem, incluindo decoradores, geradores, iteradores, introspecção e funções avançadas.
+
+- **files_io/**  
+  Manipulação de arquivos, leitura e escrita, uso de bibliotecas do sistema e operações com arquivos de texto.
+
+- **data/**  
+  Tratamento de dados, manipulação de CSV e tratamento de erros e exceções.
+
+- **databases/**  
+  Integração com bancos de dados, incluindo SQLite e controle de migrações.
+
+- **devops/**  
+  Configuração de ambientes virtuais e organização de dependências.
+
+- **projects/**  
+  Projetos práticos aplicando os conceitos estudados, com foco em arquitetura, organização de código e boas práticas.
+
+- **TDD/**  
+  Conteúdo dedicado a Test Driven Development, com documentação e exemplos práticos utilizando Python.
+
+- **notes/**  
+  Anotações complementares e materiais de apoio utilizados durante os estudos.
+
+---
+
+## 🎯 Objetivo
+
+- Consolidar o aprendizado em Python de forma prática e progressiva  
+- Servir como base de estudo e consulta rápida  
+- Demonstrar evolução técnica e organização de código  
+- Aplicar conceitos em projetos reais e educativos  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- Python
+- Pytest
+- FastAPI
+- SQLite
+- MongoDB
+- Docker
+- Git & GitHub
+
+---
+
+## 👤 Autor
+Erick Santos  
+Graduate in Information Security | Python & Cybersecurity  
+LinkedIn | GitHub
